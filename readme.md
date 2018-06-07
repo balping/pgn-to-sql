@@ -1,3 +1,9 @@
+## Moved to GitLab
+
+**Warning**: This project has been moved to GitLab: https://gitlab.com/balping/pgn-to-sql
+
+----
+
 # PGN to SQL converter
 
 A small script to convert chess pgn files to sql.
